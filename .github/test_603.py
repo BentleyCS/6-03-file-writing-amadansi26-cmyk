@@ -1,4 +1,4 @@
-from your_file_name import writeFile, sortNames, highScore
+from CSP_6_03_Writing_to_files import writeFile, sortNames, highScore
 import os
 
 
